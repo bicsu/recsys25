@@ -1,0 +1,9 @@
+*.parquet
+*.parquet.gz
+*.parquet.snappy
+*.parquet.snappy.parquet
+
+**/archives
+**/data
+**/input
+*.npy
